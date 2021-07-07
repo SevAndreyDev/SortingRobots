@@ -1,0 +1,371 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.11f1 (99c7afb366b3) revision 10078127'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 17134.648; Version 1803; 64bit' Language: 'ru' Physical Memory: 16342 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.11f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Workspace/Unity Projects/English Gym Kids/Sorting Robots/UNITY BASE
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50499
+Successfully changed project path to: D:/Workspace/Unity Projects/English Gym Kids/Sorting Robots/UNITY BASE
+D:/Workspace/Unity Projects/English Gym Kids/Sorting Robots/UNITY BASE
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 47.54 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.11f1 (99c7afb366b3)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Workspace/Unity Projects/English Gym Kids/Sorting Robots/UNITY BASE/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c81)
+    Vendor:   
+    VRAM:     1977 MB
+    Driver:   25.21.14.1881
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56880
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001679 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 41.38 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.067 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003518 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 42.69 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.141 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.54 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2082 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.0 MB.
+System memory in use after: 92.9 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2515.
+Total: 2.557945 ms (FindLiveObjects: 0.185685 ms CreateObjectMapping: 0.075776 ms MarkObjects: 2.126501 ms  DeleteObjects: 0.169301 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scripts/MiniTest.cs
+  artifactKey: Guid(ef0b1f3eae54e1a40aa27762c702fd58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MiniTest.cs using Guid(ef0b1f3eae54e1a40aa27762c702fd58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fadf1d4bd1690f35d33d64076ddedad') in 0.026833 seconds
+  Import took 0.030020 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 664.272841 seconds.
+  path: Assets/Scripts/Audio Manager
+  artifactKey: Guid(77d4c4ae13bd8704faf2858701baae38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Audio Manager using Guid(77d4c4ae13bd8704faf2858701baae38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e24d2cf9e7e5c3ceaa103c21ad9639ad') in 0.005203 seconds
+  Import took 0.010146 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.228685 seconds.
+  path: Assets/Scripts/Patterns
+  artifactKey: Guid(77d4c4ae13bd8704faf2858701baae38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Patterns using Guid(77d4c4ae13bd8704faf2858701baae38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2fab3070ebc2efc33b322733f4fc975') in 0.002814 seconds
+  Import took 0.046913 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004369 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.150 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2078 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.9 MB.
+System memory in use after: 92.9 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2520.
+Total: 2.391717 ms (FindLiveObjects: 0.190464 ms CreateObjectMapping: 0.085674 ms MarkObjects: 1.956176 ms  DeleteObjects: 0.158037 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.991660 seconds.
+  path: Assets/Scripts/Patterns/MonoSingleton.cs
+  artifactKey: Guid(f807fe8329799a04eac4a0372f20cc7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Patterns/MonoSingleton.cs using Guid(f807fe8329799a04eac4a0372f20cc7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2e1667636317c1bf52ceefb6d064fdf') in 0.004383 seconds
+  Import took 0.007439 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003276 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.076 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2078 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.0 MB.
+System memory in use after: 93.0 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2524.
+Total: 2.533028 ms (FindLiveObjects: 0.197631 ms CreateObjectMapping: 0.091136 ms MarkObjects: 2.106363 ms  DeleteObjects: 0.136874 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 145.719365 seconds.
+  path: Assets/Scripts/Patterns/MonoSingleton.cs
+  artifactKey: Guid(f807fe8329799a04eac4a0372f20cc7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Patterns/MonoSingleton.cs using Guid(f807fe8329799a04eac4a0372f20cc7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04ca7a50a41d3f166f053b4ba80585af') in 0.004738 seconds
+  Import took 0.007973 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003291 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.052 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2076 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.0 MB.
+System memory in use after: 92.9 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2526.
+Total: 2.392741 ms (FindLiveObjects: 0.190805 ms CreateObjectMapping: 0.086016 ms MarkObjects: 1.976998 ms  DeleteObjects: 0.138240 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005776 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.129 seconds
+Platform modules already initialized, skipping
+Shader 'Spine/Outline/Skeleton': fallback shader 'Spine/Skeleton' not found
+WARNING: Shader Unsupported: 'Spine/Outline/Skeleton' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Spine/Outline/Skeleton' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader 'Spine/Outline/Blend Modes/Skeleton PMA Screen': fallback shader 'Spine/Blend Modes/Skeleton PMA Screen' not found
+WARNING: Shader Unsupported: 'Spine/Outline/Blend Modes/Skeleton PMA Screen' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Spine/Outline/Blend Modes/Skeleton PMA Screen' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader 'Spine/Outline/Skeleton Tint Black': fallback shader 'Spine/Special/Skeleton Grayscale' not found
+WARNING: Shader Unsupported: 'Spine/Outline/Skeleton Tint Black' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Spine/Outline/Skeleton Tint Black' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader 'Spine/Outline/SkeletonGraphic': fallback shader 'Spine/SkeletonGraphic' not found
+WARNING: Shader Unsupported: 'Spine/Outline/SkeletonGraphic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Spine/Outline/SkeletonGraphic' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader 'Spine/Outline/Special/Skeleton Grayscale': fallback shader 'Spine/Special/Skeleton Grayscale' not found
+WARNING: Shader Unsupported: 'Spine/Outline/Special/Skeleton Grayscale' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Spine/Outline/Special/Skeleton Grayscale' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader 'Spine/Outline/OutlineOnly-ZWrite': fallback shader 'Spine/Skeleton' not found
+Shader 'Spine/Outline/Sprite/Vertex Lit': fallback shader 'Spine/Sprite/Vertex Lit' not found
+WARNING: Shader Unsupported: 'Spine/Outline/Sprite/Vertex Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Spine/Outline/Sprite/Vertex Lit' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader 'Spine/Outline/SkeletonGraphic Tint Black': fallback shader 'Spine/SkeletonGraphic Tint Black' not found
+WARNING: Shader Unsupported: 'Spine/Outline/SkeletonGraphic Tint Black' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Spine/Outline/SkeletonGraphic Tint Black' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader 'Spine/Outline/Skeleton Lit ZWrite': fallback shader 'Spine/Skeleton Lit ZWrite' not found
+WARNING: Shader Unsupported: 'Spine/Outline/Skeleton Lit ZWrite' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Spine/Outline/Skeleton Lit ZWrite' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader 'Spine/Outline/Skeleton Fill': fallback shader 'Spine/Skeleton Fill' not found
+WARNING: Shader Unsupported: 'Spine/Outline/Skeleton Fill' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Spine/Outline/Skeleton Fill' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader 'Spine/Outline/Blend Modes/Skeleton PMA Additive': fallback shader 'Spine/Blend Modes/Skeleton PMA Additive' not found
+WARNING: Shader Unsupported: 'Spine/Outline/Blend Modes/Skeleton PMA Additive' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Spine/Outline/Blend Modes/Skeleton PMA Additive' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader 'Spine/Outline/Skeleton Tint': fallback shader 'Spine/Skeleton Tint' not found
+WARNING: Shader Unsupported: 'Spine/Outline/Skeleton Tint' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'Spine/Outline/Skeleton Tint' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 0.48 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2255 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 105.5 MB.
+System memory in use after: 102.0 MB.
+
+Unloading 58 unused Assets to reduce memory usage. Loaded Objects now: 2672.
+Total: 4.380319 ms (FindLiveObjects: 0.215039 ms CreateObjectMapping: 0.088405 ms MarkObjects: 1.919654 ms  DeleteObjects: 2.155856 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 232.955644 seconds.
+  path: Assets/External
+  artifactKey: Guid(c8893c6a225afd04fbf0d7c3f3e79ebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/External using Guid(c8893c6a225afd04fbf0d7c3f3e79ebf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55675c29a99c38e5bc316e36e21bd0b6') in 0.007584 seconds
+  Import took 0.011634 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.533864 seconds.
+  path: Assets/Editor
+  artifactKey: Guid(ae7af9404713b2546bf0c1cd32d951bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor using Guid(ae7af9404713b2546bf0c1cd32d951bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11b56e5ec3df5971ceeb7d72c85fc77d') in 0.005532 seconds
+  Import took 0.008912 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004687 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.071 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2263 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 105.9 MB.
+System memory in use after: 102.4 MB.
+
+Unloading 60 unused Assets to reduce memory usage. Loaded Objects now: 2688.
+Total: 4.656799 ms (FindLiveObjects: 0.239957 ms CreateObjectMapping: 0.117077 ms MarkObjects: 1.871867 ms  DeleteObjects: 2.425850 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 221.966366 seconds.
+  path: Assets/Resources/DOTweenSettings.asset
+  artifactKey: Guid(0a90326ec7af01b49a066fa0f7df14d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/DOTweenSettings.asset using Guid(0a90326ec7af01b49a066fa0f7df14d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '154c1304adb7f76ccfb766e21219faf5') in 0.027255 seconds
+  Import took 0.031782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.063022 seconds.
+  path: Assets/Resources
+  artifactKey: Guid(441a038536ab3f8438fd61f4e3bde642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources using Guid(441a038536ab3f8438fd61f4e3bde642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ae782d1eb25ec38cb089a95c498c07b') in 0.003203 seconds
+  Import took 0.007230 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.536981 seconds.
+  path: Assets/Editor/SpineSettings.asset
+  artifactKey: Guid(f388fd91c2368454fad7b7b87647e701) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/SpineSettings.asset using Guid(f388fd91c2368454fad7b7b87647e701) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a3f0ae379e6992c1817b39fefa51412') in 0.003951 seconds
+  Import took 0.007803 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.015672 seconds.
+  path: Assets/Scenes 1
+  artifactKey: Guid(0401322992bd64e4cb095347cf4fda2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes 1 using Guid(0401322992bd64e4cb095347cf4fda2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b0872d6c3b822f931db6f56b4c3d40f') in 0.003279 seconds
+  Import took 0.006987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.550979 seconds.
+  path: Assets/DOTween
+  artifactKey: Guid(a8f1cd401b4747b478b4fb6432d8580b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DOTween using Guid(a8f1cd401b4747b478b4fb6432d8580b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b4b49cca36c091aa15862f1227173b9') in 0.004466 seconds
+  Import took 0.008607 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.270669 seconds.
+  path: Assets/INTERNAL ASSETS
+  artifactKey: Guid(8ee685d5306f1234c96b6e4e68fbad57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/INTERNAL ASSETS using Guid(8ee685d5306f1234c96b6e4e68fbad57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b49cb5ca24eb76a209bef5875d1c2a5') in 0.003177 seconds
+  Import took 0.007080 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004198 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.036 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2276 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 107.9 MB.
+System memory in use after: 103.8 MB.
+
+Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 2692.
+Total: 5.090974 ms (FindLiveObjects: 0.239615 ms CreateObjectMapping: 0.128682 ms MarkObjects: 2.060283 ms  DeleteObjects: 2.661028 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
