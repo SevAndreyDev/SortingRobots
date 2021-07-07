@@ -1,0 +1,290 @@
+
+skeleton.png
+size: 2044,1872
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 2369
+  rotate: false
+  xy: 2, 1840
+  size: 52, 28
+  orig: 52, 28
+  offset: 0, 0
+  index: -1
+Group 2418
+  rotate: false
+  xy: 56, 1840
+  size: 52, 28
+  orig: 52, 28
+  offset: 0, 0
+  index: -1
+bulb_1
+  rotate: false
+  xy: 924, 1756
+  size: 216, 112
+  orig: 216, 112
+  offset: 0, 0
+  index: -1
+bulb_2
+  rotate: false
+  xy: 1142, 1756
+  size: 216, 112
+  orig: 216, 112
+  offset: 0, 0
+  index: -1
+bun
+  rotate: true
+  xy: 601, 1589
+  size: 185, 200
+  orig: 185, 200
+  offset: 0, 0
+  index: -1
+droop
+  rotate: true
+  xy: 810, 1768
+  size: 100, 112
+  orig: 100, 112
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 1360, 1752
+  size: 116, 120
+  orig: 116, 120
+  offset: 0, 0
+  index: -1
+eye_2
+  rotate: true
+  xy: 1482, 1752
+  size: 116, 120
+  orig: 116, 120
+  offset: 0, 0
+  index: -1
+eye_3
+  rotate: false
+  xy: 176, 1786
+  size: 132, 82
+  orig: 132, 82
+  offset: 0, 0
+  index: -1
+fixing
+  rotate: true
+  xy: 240, 1613
+  size: 161, 359
+  orig: 161, 359
+  offset: 0, 0
+  index: -1
+hose_1
+  rotate: true
+  xy: 1114, 2
+  size: 661, 678
+  orig: 661, 678
+  offset: 0, 0
+  index: -1
+hose_2
+  rotate: false
+  xy: 529, 1284
+  size: 746, 290
+  orig: 746, 290
+  offset: 0, 0
+  index: -1
+light
+  rotate: true
+  xy: 2, 1616
+  size: 168, 236
+  orig: 168, 236
+  offset: 0, 0
+  index: -1
+monitor_glare
+  rotate: false
+  xy: 499, 831
+  size: 717, 451
+  orig: 717, 451
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 310, 1776
+  size: 248, 92
+  orig: 248, 92
+  offset: 0, 0
+  index: -1
+mouth_2
+  rotate: false
+  xy: 560, 1776
+  size: 248, 92
+  orig: 248, 92
+  offset: 0, 0
+  index: -1
+paint
+  rotate: false
+  xy: 263, 1347
+  size: 264, 264
+  orig: 264, 264
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 803, 1576
+  size: 1108, 144
+  orig: 1108, 144
+  offset: 0, 0
+  index: -1
+smoke_1
+  rotate: true
+  xy: 1810, 1722
+  size: 146, 156
+  orig: 146, 156
+  offset: 0, 0
+  index: -1
+smoke_2
+  rotate: false
+  xy: 2, 1358
+  size: 259, 253
+  orig: 259, 253
+  offset: 0, 0
+  index: -1
+smoke_3
+  rotate: true
+  xy: 1277, 1228
+  size: 346, 356
+  orig: 346, 356
+  offset: 0, 0
+  index: -1
+smoke_4
+  rotate: false
+  xy: 1635, 1139
+  size: 405, 435
+  orig: 405, 435
+  offset: 0, 0
+  index: -1
+smoke_5
+  rotate: true
+  xy: 2, 884
+  size: 461, 495
+  orig: 461, 495
+  offset: 0, 0
+  index: -1
+smoke_6
+  rotate: true
+  xy: 2, 331
+  size: 498, 523
+  orig: 498, 523
+  offset: 0, 0
+  index: -1
+smoke_7
+  rotate: true
+  xy: 527, 265
+  size: 564, 585
+  orig: 564, 585
+  offset: 0, 0
+  index: -1
+strips
+  rotate: false
+  xy: 1218, 665
+  size: 712, 472
+  orig: 712, 472
+  offset: 0, 0
+  index: -1
+yellow_bulb
+  rotate: true
+  xy: 1604, 1732
+  size: 136, 204
+  orig: 136, 204
+  offset: 0, 0
+  index: -1
+yellow_indicator
+  rotate: true
+  xy: 110, 1835
+  size: 33, 64
+  orig: 33, 64
+  offset: 0, 0
+  index: -1
+
+skeleton2.png
+size: 1960,1400
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bank
+  rotate: true
+  xy: 1444, 362
+  size: 1036, 512
+  orig: 1036, 512
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 2
+  size: 1440, 1396
+  orig: 1440, 1396
+  offset: 0, 0
+  index: -1
+
+skeleton3.png
+size: 1968,1600
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue_paint
+  rotate: false
+  xy: 740, 800
+  size: 980, 796
+  orig: 980, 796
+  offset: 0, 0
+  index: -1
+purple_paint
+  rotate: false
+  xy: 2, 2
+  size: 980, 796
+  orig: 980, 796
+  offset: 0, 0
+  index: -1
+red_paint
+  rotate: false
+  xy: 984, 2
+  size: 980, 796
+  orig: 980, 796
+  offset: 0, 0
+  index: -1
+smoke_8
+  rotate: true
+  xy: 2, 868
+  size: 728, 736
+  orig: 728, 736
+  offset: 0, 0
+  index: -1
+
+skeleton4.png
+size: 1848,1876
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+smoke_10
+  rotate: false
+  xy: 2, 816
+  size: 984, 1056
+  orig: 984, 1056
+  offset: 0, 0
+  index: -1
+smoke_9
+  rotate: false
+  xy: 988, 2
+  size: 857, 888
+  orig: 857, 888
+  offset: 0, 0
+  index: -1
+yellow_paint
+  rotate: false
+  xy: 2, 18
+  size: 980, 796
+  orig: 980, 796
+  offset: 0, 0
+  index: -1
+yellow_paint_2
+  rotate: true
+  xy: 988, 892
+  size: 980, 796
+  orig: 980, 796
+  offset: 0, 0
+  index: -1
